@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Lily Script One', cursiva;
+}
+header{
+    background-color: black;
+    
+}
+ul{
+    text-align: center;
+}
+li{
+    color: white;
+    display: inline-block;
+    height: 90px;
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 32px;
+    margin-left: 50px;
+}
+section figure img{
+    width: 353px;
+    height:513px ;
+    margin-top:50px ;
+    margin-left: 40px;
+    margin-bottom: 60px;
+    display: inline-block;
+  
+}
+footer{
+    background-color: black;
+  
+}
+footer p{
+    color: white;
+  
+
+    
+
+}
+footer img{
+    padding: 10px;
+    border: 2px ;
+    border-radius: 50%;
+}
